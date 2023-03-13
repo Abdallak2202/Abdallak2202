@@ -10,7 +10,7 @@ Hi, I'm a Full Stack Web Developer 🚀, currently working as a Teaching Assista
   
 **Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently working on my [StarLink Project](https://github.com/Abdallak2202/StarLink);
+- 👨🏽‍💻 I’m currently working on my [MicroHard Project](https://github.com/Abdallak2202/MicroHard);
 - ⚡️ I’m currently learning Next.js and TypeScript 🦕; 
 - 💬 Ask me about anything, I'm happy to help❗;
 - 📫 How to reach me: **abdallak2202@gmail.com** | | **+1 (862) 3846830** 📱;
